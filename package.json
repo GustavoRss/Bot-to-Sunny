@@ -1,0 +1,25 @@
+{
+  "name": "Bot-to-Sunny",       
+  "version": "0.0.1",
+  "description": "Bot experimental para el canal de Sunny :v",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "tmi.js": "^1.4.2"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/Bot-to-Sunny"
+  },
+  "license": "MIT",
+  "keywords": [
+    "twitch",
+    "chatbots",
+    "irc"
+  ]
+}
